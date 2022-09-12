@@ -1,0 +1,1 @@
+class KotlinUser(var email: String)
